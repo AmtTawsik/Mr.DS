@@ -1,6 +1,7 @@
 <template>
-  <div class="mt-[64px]">
+  <div class="">
     <HomeHeroSection></HomeHeroSection>
+    <HomeAboutUs></HomeAboutUs>
   </div>
 </template>
 <script setup>
